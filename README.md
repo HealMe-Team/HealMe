@@ -1339,7 +1339,7 @@ El doctor puede visualizar el historial de citas que atendio a los pacientes
 ![image alt](./assets/img/ood.png)
 ### 4.7.1. Class Diagrams.
 
-![image alt](./assets/img/DiagramaClase.png)
+![image alt](./assets/img/diagramaoficial.png)
 
 ### 4.7.2. Class Dictionary. 
 ### 4.8. Database Design. 
