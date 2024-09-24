@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - HEALME</title>
+    <link rel="stylesheet" href="assets/css/logindoctor.css">
+</head>
+<body>
+
+<div class="login-container">
+    <div class="login-box">
+        <!-- Sección de Iniciar sesión -->
+        <div class="login-left">
+            <h2>Login</h2>
+            <div class="social-login">
+                <!-- Botones de login con iconos sociales, cada uno con aria-label -->
+                <button aria-label="Iniciar sesión con Google" class="social-btn google">G+</button>
+                <button aria-label="Iniciar sesión con Facebook" class="social-btn facebook">f</button>
+                <button aria-label="Iniciar sesión con GitHub" class="social-btn github">G</button>
+                <button aria-label="Iniciar sesión con LinkedIn" class="social-btn linkedin">in</button>
+            </div>
+            <p>or use your email password</p>
+            <form  id="loginForm">
+                <input type="email" id="email" name="email" placeholder="Email" required>
+                <input type="password" id="password" name="password" placeholder="Password" required>
+                <a href="#">¿Forgot your password?</a>
+                <!-- Botón de inicio de sesión con aria-label -->
+                <button aria-label="Login" type="submit" class="login-btn">Login</button>
+            </form>
+        </div>
+
+        <!-- Sección de Registro -->
+        <div class="login-right">
+            <h2>Hi, Healme!</h2>
+            <p>Register with your personal data to access all features 💪</p>
+          
+            <a href="registro_doctor.html" aria-label="Registrarse" class="register-btn">Register</a>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
