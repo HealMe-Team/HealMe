@@ -1235,7 +1235,22 @@ La **Arquitectura de la Información** define cómo se organiza y estructura el 
 ![](https://github.com/LuisCS341/ImagenProyecto/raw/main/Wireframe4.jpg)
 ### 4.3.2. Landing Page Mock-up. 
 ![](https://github.com/LuisCS341/ImagenProyecto/raw/main/Frame%209%20(1)%20(1).jpg)
+<img src="assets/img/mock-up-landing-1.png">
+<img src="assets/img/mock-up-landing-2.png">
+<img src="assets/img/mock-up-landing-3.png">
+<img src="assets/img/mock-up-landing-4.png">
+<img src="assets/img/mock-up-landing-5.png">
+
+
 ### 4.4. Web Applications UX/UI Design. 
+<img src="assets/img/mock-up-app-1.png">
+<img src="assets/img/mock-up-app-2.png">
+<img src="assets/img/mock-up-app-3.png">
+<img src="assets/img/mock-up-app-4.png">
+<img src="assets/img/mock-up-app-5.png">
+<img src="assets/img/mock-up-app-6.png">
+<img src="assets/img/mock-up-app-7.png">
+
 
 ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/Landingpage1.jpg)
 ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/Login.jpg)
@@ -1249,7 +1264,10 @@ La **Arquitectura de la Información** define cómo se organiza y estructura el 
 ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplications8.jpg)
 
 ### 4.4.1. Web Applications Wireframes. 
-
+<img src="assets/img/wireframe-mobile-1.png">
+<img src="assets/img/wireframe-mobile-2.png">
+<img src="assets/img/wireframe-mobile-3.png">
+    
 ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsWireframes1.jpg)
 ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsWireframes2.jpg)
 ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsWireframes3.jpg)
