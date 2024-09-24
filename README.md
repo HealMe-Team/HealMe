@@ -1463,10 +1463,8 @@ Para el desarrollo de la primera versión de la plataforma, el equipo realizó e
 | Integrantes                           | Usuario          | Rol        |
 |---------------------------------------|------------------|------------|
 | Alonso Garay, Diego Jesus             | DiegoAlonso04    | Colaborador|
-| Cuevas Vera, José Angel    | Josecuevasvera | Colaborador|
 | Cisneros Salas, Luis Angel    | LuisCS341 | Colaborador|
 | Alcántara Cruz, Rodrigo Alonso    | Roiander | Admin |
-| Roque Tello, Jack Eddie    | UPC-Skylar | Colaborador |
 
 ![image](https://github.com/user-attachments/assets/601ca4c4-3a66-42e7-a041-378c44daf594)
 
@@ -1481,7 +1479,7 @@ Para el desarrollo de la primera versión de la plataforma, el equipo realizó e
 | Time                           | 10:12                                    |
 | Location                       | Reunión virtual realizada en Discord     |
 | Prepared By                    | Alcántara Cruz Rodrigo Alonso           |
-| Attendees (to planning meeting)| Diego Jesús Alonso Garay, Alcántara Cruz Rodrigo Alonso                   |
+| Attendees (to planning meeting)| Diego Jesús Alonso Garay, Luis Cisneros Salas, Alcántara Cruz Rodrigo Alonso                   |
 | **Sprint n - 1 Review Summary**| Avanzar la primera version de HealMe |
 | **Sprint n-1 Retrospective Summary** | Se destacó la importancia de avanzar la app web para nuestro proyecto |
 | **Sprint Goal & User Stories** |                                         |
@@ -1501,7 +1499,17 @@ Enlace del sprint en Trello: https://trello.com/invite/b/66da07a121d7f4b87735bab
 
 ### Tabla del Sprint Backlog
 
-| **User Story ID**  | **Título**                        | **Work-Item/Task ID**  | **Título**                        | **Descripción**                                                                 | **Estimación (Horas)** | **Asignado a** | **Estado (To-Do / In-Process / To-Review / Done)** |
-|--------------------|-----------------------------------|------------------------|-----------------------------------|---------------------------------------------------------------------------------|------------------------|----------------|----------------------------------------------------|
-| US-00x             | Acceder a la app web          | TSK-00x                | Poder acceder a la app web de healme          | Implementar la interfaz para que los usuaros puedan acceder a la pagina  | 8                     | Rodrigo           | In-Process                                         |
-| US-00x             | Implementacion de rutas para que los usuarios puedan acceder a las funcionalidades           | TSK-00x                | Acceder a componentes del toolbar     | Implementar las rutas para el toolbar       | 4                     | Diego          | In-Process                                         |
+## Sprint Backlog (Terminado)
+
+| **User Story ID** | **Título**                                | **Work-Item/Task ID** | **Título**                          | **Descripción**                                                                                                                     | **Estimación (Horas)** | **Asignado a** | **Estado**            |
+|-------------------|-------------------------------------------|-----------------------|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|------------------------|----------------|-----------------------|
+| US-01             | Buscar y agregar medicinas al carrito      | TSK-001               | Crear funcionalidad de búsqueda     | Implementar la funcionalidad de búsqueda de medicinas y la capacidad de agregar productos al carrito de compra.                      | 12                     | Rodrigo        | Done                  |
+| US-02             | Realizar el pago de las medicinas          | TSK-002               | Integrar sistema de pagos           | Configurar e integrar un sistema de pagos seguro para la compra de medicinas.                                                        | 8                      | Rodrigo        | Done                  |
+| US-03             | Buscar y seleccionar un doctor             | TSK-003               | Crear pantalla de selección de doctor | Desarrollar la interfaz para que los usuarios puedan buscar, ver perfiles y seleccionar doctores disponibles para consultas.          | 10                     | Diego          | Done                  |
+| US-04             | Ver el historial de citas                  | TSK-004               | Crear pantalla de historial de citas | Implementar la funcionalidad que permite a los usuarios visualizar su historial de citas, con detalles como fecha, hora y doctor.     | 8                      | Diego          | Done                  |
+| US-05             | Reservar una cita médica                   | TSK-005               | Crear sistema de reserva            | Implementar la interfaz y backend para que los usuarios puedan reservar citas médicas seleccionando fecha y hora.                    | 12                     | Diego          | Done                  |
+| US-05             | Reservar una cita médica                   | TSK-006               | Mostrar mensaje de confirmación     | Implementar el sistema de mensaje de confirmación de la cita médica                                                                  | 4                      | Diego          | Done                  |
+| US-07             | Registrarme en la aplicación               | TSK-007               | Crear formulario de registro        | Desarrollar la funcionalidad para que los usuarios puedan registrarse con sus datos personales, correo electrónico y contraseña.     | 10                     | Luis           | Done                  |
+| US-09             | Ver y elegir un centro médico              | TSK-008               | Mostrar lista de centros médicos    | Implementar la pantalla que muestra la lista de centros médicos con detalles y filtros como ubicación y especialidades disponibles.   | 8                      | Luis           | Done                  |
+| US-10             | Ver citas pendientes del doctor            | TSK-009               | Crear vista de citas pendientes     | Desarrollar la funcionalidad que permite al doctor visualizar las citas pendientes y filtrar por fechas.                             | 5                      | Diego          | Done                  |
+| US-11             | Ver historial de citas terminadas del doctor| TSK-010               | Mostrar historial de citas          | Implementar la funcionalidad que permite al doctor ver el historial de citas completadas, con detalles de cada paciente atendido.     | 6                      | Luis           | Done                  |
