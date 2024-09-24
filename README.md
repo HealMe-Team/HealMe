@@ -854,10 +854,10 @@ Objetivo: Explorar la disposición a pagar por los servicios de HealMe y el valo
 **13 - ¿Qué recomendaciones o sugerencias tendría para el equipo de HealMe en términos de diseño, implementación o uso de la plataforma para maximizar su efectividad en la mejora de la experiencia del turista?**
      - Objetivo: Recopilar ideas y sugerencias prácticas para optimizar la funcionalidad y usabilidad de la plataforma HealMe.
 
-**Segmento 2:** Dueños o encargados de centros de salud
+**Segmento 2:** Doctores o centros de salud
 
 **Preguntas de Introducción:**
-1. ¿Cuál es su nombre y el nombre del centro de salud que dirige?
+1. ¿Cuál es su nombre y el nombre del centro de salud que trabaja?
 2. ¿Cuántos años lleva en el sector de la salud?
 3. ¿En qué ciudad o región del Perú se encuentra su centro de salud?
 4. ¿Cuál es el tamaño de su centro de salud en términos de capacidad y número de empleados?
