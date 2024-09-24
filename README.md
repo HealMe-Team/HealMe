@@ -991,20 +991,9 @@ El **As-is Scenario Mapping** describe el escenario actual de cómo los usuarios
 
 El **To-Be Scenario Mapping** describe el escenario actual de cómo los usuarios resuelven sus problemas con nuestra solución, subsanando las ineficiencias y puntos de dolor.
 
-| **Escenario**                           | **Fase**       | **Descripción**                                                                                                                       |
-|-----------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| **1. Turista buscando atención médica**  | **Doing**      | El turista accede a HEALME, selecciona su ubicación actual y elige entre una lista de clínicas y centros médicos recomendados.         |
-|                                          | **Thinking**   | "Qué fácil fue encontrar clínicas con buenas calificaciones y precios claros. Puedo elegir la que mejor se adapte a mis necesidades."  |
-|                                          | **Feeling**    | Alivio y confianza al saber que ha encontrado una opción confiable sin complicaciones.                                                |
-| **2. Ejecutivo en viaje de negocios**    | **Doing**      | El ejecutivo usa HEALME para encontrar un médico disponible en su área, reservando una cita en su idioma preferido.                   |
-|                                          | **Thinking**   | "Esta plataforma es eficiente y me permite optimizar mi tiempo. Puedo ver la disponibilidad y reservar sin problemas."                |
-|                                          | **Feeling**    | Tranquilidad y satisfacción por la rapidez y facilidad del proceso, sin afectar su agenda laboral.                                    |
-| **3. Trabajador expatriado**             | **Doing**      | El expatriado usa HEALME para encontrar clínicas que ofrecen servicios en su idioma y compara precios antes de reservar.              |
-|                                          | **Thinking**   | "Qué conveniente es poder encontrar y reservar una cita en mi idioma sin malentendidos."                                               |
-|                                          | **Feeling**    | Seguridad y confianza al poder comunicarse claramente y saber que recibirá el cuidado adecuado.                                       |
-| **4. Doctor buscando empleo en el extranjero** | **Doing**  | El doctor usa HEALME para explorar oportunidades laborales, revisando las ofertas de trabajo en clínicas y hospitales en el extranjero. |
-|                                          | **Thinking**   | "Puedo ver las valoraciones y la cultura laboral antes de tomar una decisión. Esto facilita mucho mi búsqueda de empleo."             |
-|                                          | **Feeling**    | Entusiasmo y tranquilidad por tener acceso a información clave que le ayuda a tomar una decisión informada.                          |
+<img src="assets/img/to-be-medico.png">
+<img src="assets/img/to-be-turista.png">
+
 
 ## 3.2. User Stories. 
 
