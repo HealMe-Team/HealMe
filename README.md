@@ -947,20 +947,8 @@ El **User Journey Mapping** nos permite mapear el recorrido de los usuarios a lo
 <img src="assets/img/Doctor Journey Map.png">
 ### 2.3.4. Empathy Mapping
 
-| **Aspecto**               | **Descripción**                                                                                          |
-|---------------------------|----------------------------------------------------------------------------------------------------------|
-| **¿Qué piensa y siente?**  | - Preocupación por encontrar servicios médicos confiables en un entorno desconocido.                     |
-|                           | - Ansiedad por la posibilidad de enfrentar barreras lingüísticas o culturales en el acceso a la atención. |
-| **¿Qué ve?**               | - Una variedad de opciones y centros médicos, pero falta de claridad en cuanto a la calidad y precio.     |
-|                           | - Publicidad de servicios médicos, pero sin una fuente centralizada para comparar y reservar.             |
-| **¿Qué oye o escucha?**    | - Recomendaciones de amigos o conocidos sobre ciertos médicos o centros.                                 |
-|                           | - Comentarios y reseñas de otros usuarios sobre sus experiencias con servicios médicos en la plataforma.  |
-| **ESFUERZOS/GANANCIAS**    | **Esfuerzos:**                                                                                            |
-|                           | - Encontrar un proveedor médico que hable su idioma.                                                     |
-|                           | - Evitar largas esperas y complicaciones para obtener atención médica.                                    |
-|                           | **Ganancias:**                                                                                           |
-|                           | - Acceso rápido y sencillo a servicios médicos con transparencia en precios y calidad.                    |
-|                           | - Tranquilidad al poder comparar y seleccionar opciones en una sola plataforma.                          |
+<img src="assets/img/Juan-Perez-empathymap.png">
+<img src="assets/img/Laura-Gomez-empathymap.png">
 
 
 ### 2.3.5. As-is Scenario Mapping
