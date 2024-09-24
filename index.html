@@ -31,8 +31,16 @@
             <!-- Botones de acción -->
             <div class="buttons">
                 <button id="loginBtn">Login</button>
-                <button id="signupBtn">Register</button>
-                <button id="contactBtn">Contact</button>
+                <div id="dropdownLogin" class="dropdown">
+                    <a href="#" id="loginDoctor" aria-label="Iniciar sesión como Doctor">Doctor</a>
+                    <a href="#" id="loginUsuario" aria-label="Iniciar sesión como Usuario">Usuario</a>
+                </div>
+                <button id="signupBtn" aria-label="Abrir opciones de registro">Register</button>
+                <div id="dropdownSignup" class="dropdownRegister">
+                    <a href="#"  id="registerDoctor" aria-label="Registrarse como Doctor">Doctor</a>
+                    <a href="#"  id="registerUsuario" aria-label="Registrarse como Usuario">Usuario</a>
+                </div>
+                <button id="contactBtn" aria-label="Contactar">Contact</button>
             </div>
         </div>
     </section>
