@@ -955,20 +955,8 @@ El **User Journey Mapping** nos permite mapear el recorrido de los usuarios a lo
 
 El **As-is Scenario Mapping** describe el escenario actual de cómo los usuarios intentan resolver sus problemas sin nuestra solución, destacando las ineficiencias y puntos de dolor.
 
-| **Escenario**                           | **Fase**       | **Descripción**                                                                                                                       |
-|-----------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| **1. Turista buscando atención médica**  | **Doing**      | El turista navega por internet en busca de clínicas o centros médicos en su idioma o con buena reputación en un país extranjero.       |
-|                                          | **Thinking**   | "No estoy seguro si este centro médico tiene buenos doctores, ni cuánto me costará la consulta."                                        |
-|                                          | **Feeling**    | Inseguridad y ansiedad al no conocer la calidad del servicio ni los costos asociados.                                                  |
-| **2. Ejecutivo en viaje de negocios**    | **Doing**      | El ejecutivo revisa rápidamente diferentes sitios web de clínicas para encontrar un médico disponible durante una breve ventana de tiempo. |
-|                                          | **Thinking**   | "¿Será confiable esta clínica? Necesito asegurarme de que me atiendan a tiempo para no interferir con mi agenda."                       |
-|                                          | **Feeling**    | Estrés por la posibilidad de no recibir atención o que la consulta interfiera con sus compromisos laborales.                           |
-| **3. Trabajador expatriado**             | **Doing**      | El trabajador expatriado se comunica con varias clínicas por teléfono y correo electrónico para preguntar sobre disponibilidad y precios. |
-|                                          | **Thinking**   | "Espero que puedan entenderme y no haya malentendidos en cuanto al idioma o los procedimientos."                                       |
-|                                          | **Feeling**    | Frustración por la barrera del idioma y la falta de información clara y accesible.                                                     |
-| **4. Doctor buscando empleo en el extranjero** | **Doing**  | El doctor busca oportunidades laborales en el extranjero y consulta múltiples fuentes para encontrar clínicas que necesiten su especialidad. |
-|                                          | **Thinking**   | "¿Será este un buen lugar para trabajar? ¿Cómo es la cultura y el ambiente laboral en este país?"                                      |
-|                                          | **Feeling**    | Inquietud sobre la adaptación cultural y las condiciones laborales en un nuevo país.                                                   |
+<img src="assets/img/as-is-medico.png">
+<img src="assets/img/as-is-turista.png">
 
 ### 2.4. Ubiquitous Language
 
