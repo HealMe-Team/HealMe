@@ -43,7 +43,7 @@
 ---
 
 ### Project Report Collaboration Insights  
-**URL de la organización en GitHub del proyecto**: 
+**URL de la organización en GitHub del proyecto**: https://github.com/HealMe-Team
 
 ---
 
