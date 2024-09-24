@@ -1653,3 +1653,6 @@ Durante este Sprint, hemos logrado documentar los servicios web relacionados con
 | /doctor-view/history        | Ver historial de citas de sus pacientes         | GET            | `/doctor-view/history`                                       | -                                                 | `{ "history": [ ... ] }`             | Historial de citas de los pacientes del doctor.                               |
 | /doctor-view/appointments   | Ver las citas programadas por sus pacientes     | GET            | `/doctor-view/appointments`                                  | -                                                 | `{ "appointments": [ ... ] }`        | Lista de citas programadas por los pacientes del doctor.                      |
 
+Commits of the team :
+
+<img src="assets/img/commits-image-tp.png">
