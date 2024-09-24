@@ -1028,45 +1028,26 @@ El **To-Be Scenario Mapping** describe el escenario actual de cómo los usuarios
 
 ## 3.3. Impact Mapping. 
 
-**Business Goal**: Incrementar la visibilidad y confiabilidad de la plataforma, alcanzando una calificación de 4.5 estrellas en las reseñas de usuarios en los próximos 10 meses.
-
-| **Actor/Persona**                   | **Impacto**                                                                                  | **Deliverables**                                                                               | **User Stories**                                                                                           |
-|-------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| Turista en búsqueda de atención médica | Dejar reseñas positivas y compartir su experiencia con otros usuarios.                        | - Implementar un sistema de calificaciones y reseñas dentro de la plataforma.                  | - Como turista, quiero ver los detalles completos de una clínica para evaluar su calidad antes de reservar una cita. |
-|                                     |                                                                                             | - Crear incentivos para que los usuarios dejen reseñas después de sus citas.                    | - Como turista, quiero comparar varias clínicas para elegir la mejor opción basada en calificaciones y precios. |
-|                                     |                                                                                             | - Desarrollar una sección de testimonios y casos de éxito visibles en la plataforma y en redes sociales. | - Como usuario, quiero ver la ubicación de la clínica en un mapa para planificar cómo llegar allí fácilmente. |
-
-
-**Business Goal**: Aumentar la retención de usuarios recurrentes en un 20% en los próximos 12 meses.
-
-| **Actor/Persona**                   | **Impacto**                                                                                  | **Deliverables**                                                                               | **User Stories**                                                                                           |
-|-------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| Trabajador expatriado               | Crear un perfil y actualizar su información regularmente para facilitar futuras reservas.    | - Desarrollo de perfiles personalizados donde los usuarios puedan guardar su historial médico y preferencias. | - Como usuario, quiero crear un perfil personal para almacenar mi información médica y preferencias de clínicas. |
-|                                     |                                                                                             | - Integrar funcionalidades de actualización de perfil y notificación de cambios relevantes en servicios. | - Como usuario, quiero actualizar mi perfil para mantener mi información médica y preferencias siempre actualizadas. |
-|                                     |                                                                                             | - Ofrecer incentivos o descuentos por mantener el perfil actualizado y realizar reservas frecuentes. |                                                                                                            |
-
-
-**Business Goal**: Reducir la tasa de cancelación de citas a menos del 5% en los próximos 6 meses.
-
-| **Actor/Persona**                   | **Impacto**                                                                                  | **Deliverables**                                                                               | **User Stories**                                                                                           |
-|-------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| Ejecutivo en viaje de negocios       | Reservar citas en horarios que no interfieran con su agenda laboral y recibir confirmaciones rápidas. | - Implementar un sistema de reservas con opciones de horarios flexibles y notificaciones en tiempo real. | - Como ejecutivo, quiero recibir una confirmación de mi reserva para asegurarme de que mi cita ha sido registrada. |
-|                                     |                                                                                             | - Integrar recordatorios automáticos antes de la cita para reducir el riesgo de cancelación.  | - Como ejecutivo, quiero ver la disponibilidad de médicos y reservar en horarios que no interfieran con mi agenda laboral. |
+<img src="assets/img/Juan-Perez-impactmap.png">
+<img src="assets/img/Laura-Gomez-impactmap.png">
 
 ## 3.4. Product Backlog.
 
-| # Orden | User Story Id | Título                            | Descripción                                                                                                           | Story Points (1 / 2 / 3 / 5 / 8) |
-|---------|---------------|----------------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------------------|
-| 1       | US-01        | Búsqueda por ubicación           | Como turista, quiero buscar clínicas cercanas a mi ubicación actual para encontrar atención médica rápidamente.       | 3                               |
-| 2       | US-05        | Reserva de citas médicas         | Como turista, quiero reservar una cita médica desde la plataforma para asegurarme de que me atenderán a tiempo.       | 5                               |
-| 3       | US-06        | Confirmación de reserva          | Como usuario, quiero recibir una confirmación de mi reserva para asegurarme de que mi cita ha sido registrada.        | 2                               |
-| 4       | US-03        | Comparación de clínicas          | Como turista, quiero comparar varias clínicas para elegir la mejor opción basada en calificaciones y precios.         | 5                               |
-| 5       | US-04        | Visualización de detalles        | Como usuario, quiero ver los detalles completos de una clínica para evaluar su calidad antes de reservar una cita.    | 3                               |
-| 6       | US-02        | Filtrado por especialidad        | Como usuario, quiero filtrar las clínicas por especialidad para encontrar el tipo de atención médica que necesito.    | 3                               |
-| 7       | US-07        | Visualización de ubicación       | Como turista, quiero ver la ubicación de la clínica en un mapa para planificar cómo llegar allí fácilmente.           | 2                               |
-| 8       | US-08        | Navegación hasta la clínica      | Como usuario, quiero recibir instrucciones de navegación desde mi ubicación actual hasta la clínica.                 | 5                               |
-| 9       | US-09        | Creación de perfil de usuario    | Como usuario, quiero crear un perfil personal para almacenar mi información médica y preferencias de clínicas.        | 3                               |
-| 10      | US-010        | Actualización de perfil de usuario | Como usuario, quiero actualizar mi perfil para mantener mi información médica y preferencias siempre actualizadas.    | 2                               |
+
+| **# Orden** | **User Story ID** | **Título**                            | **Descripción**                                                                                                           | **Story Points** |
+|-------------|-------------------|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------|------------------|
+| 1           | US-01             | Buscar y agregar medicinas al carrito | Como usuario, quiero poder buscar y agregar medicinas a mi carrito de compra para poder adquirirlas fácilmente desde la aplicación. | 5                |
+| 2           | US-02             | Realizar el pago de las medicinas     | Como usuario, quiero poder realizar el pago de las medicinas en línea de manera segura para completar mi compra.           | 5                |
+| 3           | US-03             | Buscar y seleccionar un doctor        | Como usuario, quiero poder buscar y seleccionar a un doctor de acuerdo a su especialidad para programar una consulta.      | 3                |
+| 4           | US-04             | Ver el historial de citas             | Como usuario, quiero poder ver el historial de citas para tener un registro de mis consultas médicas.                      | 3                |
+| 5           | US-05             | Reservar una cita médica              | Como usuario, quiero poder reservar una cita médica en la aplicación para poder ser atendido sin tener que llamar al centro médico. | 5                |
+| 6           | US-06             | Ver reseñas de centros y doctores     | Como usuario, quiero poder ver las reseñas de los centros médicos y de los doctores para tomar decisiones informadas al reservar mi cita. | 3                |
+| 7           | US-07             | Registrarme en la aplicación          | Como usuario, quiero poder registrarme en la aplicación utilizando mi correo electrónico y una contraseña segura para acceder a las funcionalidades. | 5                |
+| 8           | US-08             | Iniciar sesión en la aplicación       | Como usuario, quiero poder iniciar sesión en la aplicación con mi cuenta registrada para acceder a mi perfil y servicios.   | 3                |
+| 9           | US-09             | Ver y elegir un centro médico         | Como usuario, quiero poder ver una lista de los centros médicos disponibles y elegir uno para mi consulta.                 | 3                |
+| 10          | US-10             | Ver citas pendientes                  | Como doctor, quiero poder ver las citas pendientes para poder atender a mis pacientes.                                     | 2                |
+| 11          | US-11             | Ver historial de citas terminadas     | Como doctor, quiero poder ver el historial de citas que he tenido con mis pacientes para llevar un registro.               | 2                |
+
 
 
 # Capítulo IV: Product Design 
