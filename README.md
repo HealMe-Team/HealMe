@@ -1636,5 +1636,20 @@ En la aplicacion cumplimos con las funcionalidades de reservar cita, ver histori
 
 <img src="assets/img/deploy-7.png">
 
+### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
+## Servicios Documentación Evidencia para la Revisión del Sprint
 
+### Introducción
+Durante este Sprint, hemos logrado documentar los servicios web relacionados con la plataforma "HEALME". La documentación incluye los endpoints que pronto se implemetarán, describiendo las acciones soportadas, verbos HTTP, parámetros, y ejemplos de respuestas. Esta sección proporciona una visión general de los endpoints desarrollados y su integración con la plataforma. (estan en proceso)
+
+| **Endpoint**                | **Acción Implementada**                          | **Verbo HTTP** | **Sintaxis de Llamada**                                      | **Parámetros**                                     | **Ejemplo de Response**              | **Explicación del Response**                                                   |
+|-----------------------------|--------------------------------------------------|----------------|--------------------------------------------------------------|---------------------------------------------------|--------------------------------------|-------------------------------------------------------------------------------|
+| /doctor                     | Ver lista de doctores                           | GET            | `/doctor`                                                    | -                                                 | `{ "doctors": [ ... ] }`             | Lista de doctores disponibles con detalles básicos.                           |
+| /hospitals                  | Visualizar hospitales o clínicas disponibles    | GET            | `/hospitals`                                                 | -                                                 | `{ "hospitals": [ ... ] }`           | Lista de hospitales o clínicas disponibles.                                   |
+| /appointments               | Reservar cita médica                            | POST           | `/appointments`                                              | clinic_id (string), date (string), time (string)  | `{ "appointment": { ... } }`         | Confirmación de la reserva de una cita médica.                                |
+| /products                   | Ver productos disponibles para la compra        | GET            | `/products`                                                  | -                                                 | `{ "products": [ ... ] }`            | Lista de productos disponibles para la compra.                                |
+| /appointments/{id}          | Ver confirmación de la reserva de cita          | GET            | `/appointments/{id}`                                         | id (string)                                      | `{ "appointment": { ... } }`         | Detalles de la cita médica confirmada.                                        |
+| /doctor-view                | Ver vista del doctor                            | GET            | `/doctor-view?clinic_id={clinic_id}&current_location={current_location}` | clinic_id (string), current_location (string)   | `{ "directions": [ ... ] }`          | Instrucciones de navegación desde la ubicación actual hasta la clínica.       |
+| /doctor-view/history        | Ver historial de citas de sus pacientes         | GET            | `/doctor-view/history`                                       | -                                                 | `{ "history": [ ... ] }`             | Historial de citas de los pacientes del doctor.                               |
+| /doctor-view/appointments   | Ver las citas programadas por sus pacientes     | GET            | `/doctor-view/appointments`                                  | -                                                 | `{ "appointments": [ ... ] }`        | Lista de citas programadas por los pacientes del doctor.                      |
 
