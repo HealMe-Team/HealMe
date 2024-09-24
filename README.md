@@ -39,6 +39,9 @@
 | 01/09/2024  | 1.4      |  Luis Cisneros             | Elaboración de los diagramas C4 y mejora de los User Stories           |
 | 05/09/2024  | 1.5      |   Luis Cisneros              | Incorporación del diagrama de clases y modelado del diseño de base de datos |
 | 05/09/2024  | 1.6    |Luis Cisneros                 | Landing Page UI Design,Landing Page Wireframe,Landing Page Mock-up,Web Applications UX/UI Design,Web Applications Wireframes,Web Applications Wireflow Diagrams,Web Applications Mock-ups,Web Applications User Flow Diagrams,Web Applications Prototyping|
+| 23/09/2024  | 1.7      |   Diego Alonso              | Se agregó las ultimas funcionalidades de la aplicación |
+| 24/09/2024  | 1.8      |   Rodrigo Alcántara              | Correccion de la documentacion y elaboracion de la primera version de la aplicacion web |
+| 24/09/2024  | 1.9      |   Luis Cisneros              | Elaboracion del log in, register y correcion de diagramas c4 |
 
 ---
 
@@ -78,6 +81,15 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 |**Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos**  | **Cisneros Salas, Luis Angel**: Para la TB1, realice el Landing Page UI Design,Landing Page Wireframe,Landing Page Mock-up,Web Applications UX/UI Design,Web Applications Wireframes,Web Applications Wireflow Diagrams,Web Applications Mock-ups,Web Applications User Flow Diagrams,Web Applications Prototyping | He llegado a la conclusion de que el trabajo en equipo no se puede lograr sin establecer los objetivos a cumplir, tener un control de los avances es muy importante |
 | **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | **Alcántara Cruz, Rodrigo Alonso**: TB1: Para el tb1 complete los ultimos puntos del capitulo 1, despues elabore el landing page basandome en los diseños establecidos por el equipo, acto seguido comence a elaborar los 8 primeros puntos del capitulo V , he creado el repositorio , invite a los compañeros del equipo, elegi la ide que ibamos a utilizar, estableci los lenguajes que se iban a implementar tanto en el landing page como en la app web, y estuve al tanto de actualiozaciones que pueden surgir para implementarlas en el landing page  | LLegue a la conclusion que el trabajo en equipo tiene muchas formas para poder solucionar problemas, debemos fomentar el buen ambiente y esforzarnos para poder hacer un buen trabajo
 
+### TP1  
+#### Integrante Tareas Asignadas  
+
+| Integrante                        | Tareas Asignadas                                                                 |
+|-----------------------------------|----------------------------------------------------------------------------------|
+| Diego Alonso, Rodrigo Alcántara, Luis Cisneros          | Elaboración de entrevistas, colaboración general |
+|Diego Alonso | Implementar funcionalidades de la aplicacion web |
+|  Rodrigo Alcántara,          | Elaboracion de la primera version de la aplicacion web y correcion de la documentacion     |
+| Luis Cisneros          | Elaboracion de los diagramas c4 , log in y register de los 2 segmentos |
 
 
 <div style="text-align: center; font-size: 32px;">
