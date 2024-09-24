@@ -930,12 +930,15 @@ En Lean UX, las **User Personas** son representaciones semi-ficticias de nuestro
 
 La **User Task Matrix** nos permite visualizar las tareas clave que nuestros usuarios realizan al interactuar con nuestra plataforma y cómo estas tareas se alinean con las necesidades identificadas.
 
-| **Tarea**                           | **Persona 1: Laura Gómez**                  | **Persona 2: Juan Pérez**                  |
-|-------------------------------------|---------------------------------------------|--------------------------------------------|
-| Buscar un proveedor de salud local  | Prioriza reseñas y valoraciones             | Busca eficiencia en la reserva             |
-| Comparar precios de servicios       | Altamente sensible a los costos             | Prefiere opciones rápidas y confiables     |
-| Reservar una cita médica            | Necesita un proceso sencillo y rápido       | Valora la confirmación instantánea         |
-| Revisar historial de citas          | Usa la plataforma para mantener un registro | Solo revisa en caso de necesidad           |
+| TASK                                           | Doctor/Centro de salud FREQUENCY | Doctor/Centro de salud IMPORTANCE | Turista/viajero FREQUENCY | Turista/viajero IMPORTANCE |
+|------------------------------------------------|--------------------|---------------------|---------------------|----------------------|
+| Log in en la plataforma                        | Always             | High                | Always              | High                 |
+| Crear perfil                                   | Always             | High                | Always              | High                 |
+| Solicitar/Reservar una cita                    | Never              | low                 | Always              | High                 |
+| Visualizar reseñas                             | Always             | High                | Always              | High                 |
+| Ver historial de citas                         | Never              | Low                 | Always              | High                 |
+| Pagos en línea                                 | Never              | Low                 | Always              | High                 |
+| Ver citas pendientes                           | Always             | High                | Never               | Low                  |
 
 ### 2.3.3. User Journey Mapping
 
