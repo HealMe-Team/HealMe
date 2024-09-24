@@ -1581,7 +1581,7 @@ Enlace del sprint en Trello: https://trello.com/invite/b/66da07a121d7f4b87735bab
 
 ### Tabla del Sprint Backlog
 
-## Sprint Backlog (Terminado)
+## Sprint Backlog 
 
 | **User Story ID** | **Título**                                | **Work-Item/Task ID** | **Título**                          | **Descripción**                                                                                                                     | **Estimación (Horas)** | **Asignado a** | **Estado**            |
 |-------------------|-------------------------------------------|-----------------------|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|------------------------|----------------|-----------------------|
@@ -1595,3 +1595,46 @@ Enlace del sprint en Trello: https://trello.com/invite/b/66da07a121d7f4b87735bab
 | US-09             | Ver y elegir un centro médico              | TSK-008               | Mostrar lista de centros médicos    | Implementar la pantalla que muestra la lista de centros médicos con detalles y filtros como ubicación y especialidades disponibles.   | 8                      | Luis           | Done                  |
 | US-10             | Ver citas pendientes del doctor            | TSK-009               | Crear vista de citas pendientes     | Desarrollar la funcionalidad que permite al doctor visualizar las citas pendientes y filtrar por fechas.                             | 5                      | Diego          | Done                  |
 | US-11             | Ver historial de citas terminadas del doctor| TSK-010               | Mostrar historial de citas          | Implementar la funcionalidad que permite al doctor ver el historial de citas completadas, con detalles de cada paciente atendido.     | 6                      | Luis           | Done                  |
+
+### 5.2.2.3. Development Evidence for Sprint Review. 
+
+### Sprint 2
+
+En este Sprint, hemos logrado implementar las funcionalidades principales de la plataforma HealMe de forma completa, como la reserva de citas médicas, la confirmación de reservas, y la visualización del historial de citas. Estas implementaciones corresponden a las secciones críticas de la plataforma, permitiendo a los usuarios acceder a servicios médicos en ubicaciones desconocidas. A continuación, se presentan los avances en la implementación a través de los commits realizados en los repositorios involucrados en el desarrollo de estas funcionalidades.
+
+
+| **Repository**   | **Branch**   | **Commit ID** | **Commit Message**             | **Commit Message Body**                                                       | **Committed on (Date)** |
+|------------------|--------------|---------------|--------------------------------|--------------------------------------------------------------------------------|-------------------------|
+|  Heal-Me-APP  |  main  |   update app  |      proyect          |       App finished     | 2024-09-24              |
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review. 
+
+Durante este Sprint, se realizaron pruebas automatizadas para asegurar el correcto funcionamiento de los Web Services relacionados con los User Stories especificados. Se desarrollaron Unit Tests, Integration Tests, y Acceptance Tests utilizando el enfoque BDD. Las pruebas abarcaron funcionalidades como búsqueda de clínicas, reserva de citas médicas y manejo del perfil de usuario.
+
+| **Repository**      | **Branch**           | **Commit ID** | **Commit Message**                              | **Commit Message Body**                                                                  | **Committed on (Date)** |
+|---------------------|----------------------|---------------|-------------------------------------------------|------------------------------------------------------------------------------------------|-------------------------|
+| Healme      | main         | US-003.feature       | Create US-003.feature          | Añadido del Acceptance-Test.                      | 2024-09-03              |
+| Healme      | main         | US-005.feature       | Create US-005.feature          | Añadido del Acceptance-Test.                      | 2024-09-04              |
+| Healme      | main         | US-006.feature       | Create US-006.feature          | Añadido del Acceptance-Test.                      | 2024-09-05              |
+| Healme      | main         | US-009.feature       | Create US-009.feature          | Añadido del Acceptance-Test.                      | 2024-09-05              |
+
+### 5.2.2.5. Execution Evidence for Sprint Review. 
+Aqui mostramos la evidencia de la aplicacion web
+En la aplicacion cumplimos con las funcionalidades de reservar cita, ver historial de citas, confirmacion de la cita reservada, venta de productos medicos, reseñas de hospitales y doctores, eleccion de horarios, hospitals y doctores para la cita medica. En caso de los doctores tambien cumplimos todo, se ha implementado el poder visualizar las citas reservadas por los usuarios y se puede ver la hora, fecha , detalles del paciente y tambien se ha implementado el boton para poder ver el historial de citas como doctor.
+
+<img src="assets/img/deploy-1.png">
+
+<img src="assets/img/deploy-2.png">
+
+<img src="assets/img/deploy-3.png">
+
+<img src="assets/img/deploy-4.png">
+
+<img src="assets/img/deploy-5.png">
+
+<img src="assets/img/deploy-6.png">
+
+<img src="assets/img/deploy-7.png">
+
+
+
