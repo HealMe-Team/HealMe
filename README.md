@@ -981,11 +981,7 @@ El **As-is Scenario Mapping** describe el escenario actual de cómo los usuarios
   
 - **Historial médico**: Registro de las citas pasadas de un usuario, incluyendo diagnósticos, tratamientos, y notas del proveedor.
   
-- **Recordatorio de cita**: Notificación enviada al usuario antes de su cita médica para recordar la fecha, hora, y ubicación.
-  
 - **Mapa interactivo**: Herramienta que muestra la ubicación de los proveedores de servicios médicos en un área determinada y permite filtrar por especialidad y disponibilidad.
-  
-- **Atención de emergencia**: Servicio prioritario que conecta a los usuarios con proveedores de servicios médicos en situaciones de urgencia.
   
 - **Seguridad y privacidad**: Normas y prácticas que garantizan la protección de los datos personales y médicos de los usuarios.
 
