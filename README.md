@@ -305,12 +305,12 @@ Hypothesis 3:Si ofrecemos la opción de reservar citas basadas en la ubicación 
 
 #### 1.2.2.4. Lean UX Canvas. 
 
-Business problem
+## Business problem
 ¿Qué problema de negocio hemos identificado que necesita ayuda?
 
 La dificultad para agendar citas médicas de manera rápida y eficiente, la complejidad en el acceso a múltiples proveedores de salud y la falta de transparencia en los precios de los servicios médicos, estas experiencias suelen ser muy insatisfactorias para los pacientes.
 
-Solution ideas
+## Solution ideas
 
 Una plataforma web centralizada que permita a los pacientes el poder agendar citas con múltiples centros de salud desde un solo lugar.
 
@@ -320,7 +320,7 @@ Transparencia en los precios de los servicios médicos, permitiendo a los usuari
 
 Integración de recordatorios automáticos y seguimiento de citas para mejorar la experiencia del paciente 
 
-Business outcomes
+## Business outcomes
 
 Aumento en la cantidad de citas medicas agendadas a traves de la plataforma
 
@@ -330,7 +330,7 @@ Mejora en la satisfacción del cliente reflejada en calificaciones positivas y r
 
 Incremento en el uso de la plataforma por parte de viajeros y turistas para reservar citas médicas en ubicaciones desconocidas.
 
-Users and costumers:
+## Users and costumers:
 
 Pacientes locales que buscan facilidad y rapidez al agendar citas médicas.
 
@@ -338,7 +338,7 @@ Viajeros y turistas que necesitan acceso rápido a servicios médicos en ciudade
 
 Centros médicos y clínicas que desean aumentar su visibilidad y accesibilidad para atraer más pacientes.
 
-User Benefits
+## User Benefits
 
 Agendar citas médicas de manera rápida y sin complicaciones.
 
@@ -348,7 +348,7 @@ Obtener información clara y transparente sobre los costos de los servicios méd
 
 Facilitar el acceso a servicios médicos mientras están en una ubicación desconocida.
 
-Hypotheses
+## Hypotheses
 
 Creemos que un aumento en la cantidad de citas agendadas se logrará si los pacientes locales obtienen facilidad y rapidez en la reserva de citas con una plataforma centralizada.
 
@@ -356,7 +356,7 @@ Creemos que una mayor satisfacción del cliente se logrará si los pacientes obt
 
 Creemos que un aumento en el uso de la plataforma por parte de viajeros se logrará si los viajeros y turistas obtienen acceso rápido a servicios médicos con la funcionalidad de búsqueda por ubicación.
 
-Whats the most important thing we need to learn first?
+## Whats the most important thing we need to learn first?
 
 Que los pacientes realmente prefieren una plataforma centralizada sobre los métodos tradicionales de reserva de citas.
 
@@ -364,7 +364,7 @@ Que la transparencia en los precios es un factor decisivo para que los pacientes
 
 Que los viajeros y turistas usarán una plataforma web para agendar citas médicas en lugar de buscar asistencia médica localmente.
 
-Whats the leas amount of work we need to do learn the next most importan thing?
+## Whats the leas amount of work we need to do learn the next most importan thing?
 
 Lanzar una versión beta de la plataforma con una selección limitada de proveedores de salud y medir cuántos usuarios completan el proceso de reserva de citas.
 
@@ -376,6 +376,8 @@ Crear una campaña de marketing dirigida a viajeros y turistas para evaluar el i
 1.3. Segmentos objetivo. 
 
 Viajeros/Turistas: Personas que se encuentran en una ciudad o país diferente y necesitan acceso rápido a servicios médicos sin conocimiento previo del área. Las características clave para este segmento incluyen la búsqueda basada en la ubicación y la transparencia en los precios para ayudarles a tomar decisiones informadas rápidamente.
+
+Centros medicos /doctores : Centros medicos y profesionales de salud los cuales busquen obtener mas pacientes para atender, pues a la hora que turistas busquen centros medicos no logren encontrar uno optimo para ellos haciendo que varios centros medicos y doctores no puedan encontrar pacientes
 
 ##    2.1. Competidores
 
