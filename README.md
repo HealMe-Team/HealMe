@@ -1258,37 +1258,34 @@ La **Arquitectura de la Información** define cómo se organiza y estructura el 
 ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsWireframes6.jpg)
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
+link [lucidchart](https://lucid.app/lucidchart/894ea71f-a5fb-4f49-918a-7a3ba6b6542b/edit?viewport_loc=-1420%2C4811%2C5935%2C2778%2C0_0&invitationId=inv_79013474-b8a7-4bb2-913b-9eedaeeac46f)
 
-User Goal 1: Seleccionar un doctor basado en su disponibilidad y calificaciones
+## User Goal Log in:
+El usuario inicia sesión para poder usar la aplicación
+<img src="assets/img/user-goal-login.png">
 
-El usuario entrará a la aplicación y, una vez dentro, buscará el apartado de "Doctores". En este, seleccionará la opción "Ver Doctores Disponibles". A continuación, se le mostrará una lista de doctores organizada por especialidad y centro médico. El usuario podrá filtrar los resultados según especialidad, ubicación, calificaciones o disponibilidad. La aplicación mostrará una lista de doctores disponibles, junto con sus calificaciones y opiniones de otros pacientes. El usuario podrá seleccionar un doctor específico para ver su perfil, que incluirá información detallada como experiencia, estudios, horarios disponibles, precios de consulta y valoraciones. Si el usuario está satisfecho con la selección, podrá proceder a reservar una cita con el doctor. Finalmente, la página le mostrará un mensaje confirmando la reserva de la cita.
+## User Goal Register:
+El usuario se registra para poder usar la aplicación
+<img src="assets/img/user-goal-register.png">
 
-![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/Usergoal1.jpg)
+## User Goal Reservar cita:
+El usuario Reserva una cita eligiendo el doctor y hospital para poder asistir para que sea atendido
+<img src="assets/img/user-goal-reservar-cita.png">
 
-User Goal 2: Comparar precios y alternativas de medicamentos
+## User Goal ver historial de citas:
+El usuario despues de reservar su cita desea revisar el historial de citas para ver que su cita se registro correctamente
 
-El usuario entrará a la aplicación y, una vez dentro, buscará el apartado de "Medicamentos". En este, seleccionará la opción "Comparar Medicamentos". A continuación, se le pedirá que ingrese el nombre del medicamento que desea comparar. La aplicación le mostrará una lista de opciones disponibles, incluyendo diferentes marcas, presentaciones, precios y farmacias donde pueden adquirirse. El usuario podrá filtrar los resultados según precio, cercanía de la farmacia o disponibilidad del medicamento. También tendrá la opción de ver alternativas genéricas o sustitutos recomendados. Una vez seleccionada la opción más conveniente, el usuario podrá proceder a comprar el medicamento directamente desde la aplicación o guardar la información para su referencia. Finalmente, la página le mostrará un resumen de la comparación realizada y los pasos siguientes para adquirir el medicamento.
+<img src="assets/img/user-goal-historial-citas.png">
 
-![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/Usergoal2.jpg)
+## User Goal ver citas programadas como doctor:
+El doctor desea ver las citas programadas del paciente que lo eligió para asi poder prepararse para antenderlo
 
-### 4.4.2. Web Applications Mock-ups. 
+<img src="assets/img/user-goal-doctor-citas.png">
 
-![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsMock-ups.jpg)
+## User Goal ver historial de citas como doctor:
+El doctor puede visualizar el historial de citas que atendio a los pacientes
 
-### 4.4.3. Web Applications User Flow Diagrams. 
-
-User Goal 1: comprar calificacion de medicamentos
-Personas 
-User Story: Como usuario que busca un medicamento, quiero comparar las calificaciones y reseñas de distintos medicamentos, para elegir la opción más efectiva y segura según la experiencia de otros usuarios.
-
-![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/User1.png)
-
-User Goal 2:Poder separar o reservar una cita médica de manera rápida y sencilla.
-
-User Sotory:Como usuario que necesita una consulta médica, quiero poder reservar una cita de forma rápida y sin complicaciones, para asegurarme de obtener atención médica en el momento que lo necesite.
-
-![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/User2.png)
-
+<img src="assets/img/user-goal-doctor-historial.png">
 ### 4.5. Web Applications Prototyping. 
 
 ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping1.jpg)
