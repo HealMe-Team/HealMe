@@ -1342,8 +1342,8 @@ Para el desarrollo de nuestro proyecto Usaremos webstorm, lo hemos dividido en 2
 Github Desktop es una aplicación de código abierto que ayuda a trabajar con código hospedado en github u otros servicios de hospedaje de Git. Contamos con 2 repositorios en Github , el primero es donde está el landing page y el segundo es donde están los criterios de aceptación.
 
 
-(https://github.com/Roiander/HealMe)
-(link del repo 2 (proceso)
+(https://github.com/HealMe-Team/HealMe)
+(https://github.com/HealMe-Team/Heal-Me-APP)
 
 5.1.3. Source Code Style Guide & Conventions.
 
