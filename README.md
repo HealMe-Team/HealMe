@@ -902,13 +902,13 @@ En Lean UX, las **User Personas** son representaciones semi-ficticias de nuestro
 
 **Persona 1:**
 - **Nombre:** Laura Gómez
-- **Edad:** 29 años
-- **Profesión:** Nómada digital
-- **Motivaciones:** Necesita acceso rápido a servicios médicos confiables mientras trabaja remotamente desde diferentes países.
-- **Frustraciones:** Falta de transparencia en precios y dificultad para encontrar servicios médicos de calidad en lugares desconocidos.
-- **Objetivos:** Reservar citas médicas sin complicaciones y asegurarse de recibir atención de calidad, sin importar su ubicación.
+- **Edad:** 33 años
+- **Profesión:** Doctora
+- **Motivaciones:** Necesita una plataforma para promover su trabajo.
+- **Frustraciones:** No encuentra una plataforma donde pueda encontrar pacientes
+- **Objetivos:** Poder atender a pacientes que lo necesiten.
+<img src="assets/img/Laura-Gomez.png">
 
-![imagen_2024-08-23_185239622](https://hackmd.io/_uploads/Sk-AljUiC.png)
 
 
 **Persona 2:**
