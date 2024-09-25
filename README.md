@@ -909,8 +909,8 @@ En esta entrevista Ignacio Peveri, más conocido como Tuti (Nombre Artistico), n
 
 - **Edad**: 39 años
 - **Departamento**: Lima,Perú
-- **Duración**: 
-- **URL**: LINK
+- **Duración**: 5:12
+- **URL**: https://drive.google.com/file/d/1xV81P4bnQntprdNo2z4iFV5Ffz_Y6Qdg/view?usp=sharing
 
 **Resumen**: 
 
