@@ -1673,3 +1673,20 @@ Durante este Sprint, hemos logrado documentar los servicios web relacionados con
 Commits of the team :
 
 <img src="assets/img/commits-image-tp.png">
+
+
+### Conclusiones 
+- Hemos llegado a la conslusion de que la elaboracion del proyecto de la aplicacion HealMe es fundamental para casi todo el mundo, pues estamos brindando informacion medica de calidad a extranjeros y locales para que no tengan dificultades al solicitar atencion medica por un viaje, etc.
+- El trabajo en equipo es fundamental para la culminacion del trabajo , fomentando un buen ambiente para todos los integrantes.
+- La implementacion de tecnologías usando la navegacion a internet para poder completar el trabajo es fundamental ya que debemos acostumbrarnos a mantener un aprendizaje continuo para poder alcanzar mejores metas como profesionales.
+- Se llego a la conclusion que la medicina peruana y la programacion pueden trabajar en equipo para poder alcanzar una cantidad mayor de usuarios siende beneficiosa para ambos sectores.
+
+
+### Referencias bibliograficas
+
+Vue.js. (s. f.). https://vuejs.org/guide/introduction.html
+
+PrimeVue | Vue UI Component Library. (s. f.). https://primevue.org/introduction/
+
+Stack Overflow - where developers learn, share, & build careers. (s. f.). Stack Overflow. https://stackoverflow.com/
+
